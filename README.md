@@ -1,4 +1,4 @@
-# Python Data Structures
+# C++ Data Structures
 
 <img align="center" src="https://github.com/Alok5102R/CPP-Playground-DSA/blob/main/extras/DSACPP.png" alt="cpp_dsa" />
 
