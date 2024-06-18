@@ -1,6 +1,6 @@
 # C++ Data Structures
 
-<img align="center" src="https://github.com/Alok5102R/CPP-Playground-DSA/blob/main/extras/DSACPP.png" alt="cpp_dsa" />
+<img align="center" src="https://github.com/Alok5102R/CPP-Playground-DSA/blob/master/extras/DSACPP.png" alt="cpp_dsa" />
 
 This repository contains C++ implementations of various data structures commonly used in computer science and software development. Each data structure is implemented with detailed explanations and examples to help you understand their functionality and usage.
 
