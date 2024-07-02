@@ -1,3 +1,7 @@
+// Bubble Sort
+// Time complexity = Best case:O(n), Worst case:O(n^2)
+// Space complexity = O(1)
+
 #include <iostream>
 #include <vector>
 using namespace std;
@@ -5,9 +9,6 @@ using namespace std;
 int main() {
   vector<int> listnums = {23,578,4,7679,167,0,28};
   int temp = 0, swap = 0;
-  // Time complexity = Best case:O(n), Worst case:O(n^2)
-  // Space complexity = O(1)
-
   
   // For Loop approach =====================
   
